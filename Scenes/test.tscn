@@ -37,6 +37,11 @@ transform = Transform3D(-2.80347e-07, 0, -6.51359, 0, 0.375195, 0, 6.4136, 0, -2
 use_collision = true
 size = Vector3(0.0771484, 1, 0.467499)
 
+[node name="CSGBox3D16" type="CSGBox3D" parent="Escenario"]
+transform = Transform3D(-2.80347e-07, 0, -6.51359, 0, 0.375195, 0, 6.4136, 0, -2.84718e-07, -0.190317, 0.110351, 1.39478)
+use_collision = true
+size = Vector3(0.0385742, 1, 1.05633)
+
 [node name="CSGBox3D8" type="CSGBox3D" parent="Escenario"]
 transform = Transform3D(-2.80347e-07, 0, -0.613565, 0, 2.34903, 0, 6.4136, 0, -2.68198e-08, -2.45529, 0.321442, -3.14182)
 use_collision = true
@@ -91,6 +96,11 @@ size = Vector3(0.0771484, 1, 1)
 transform = Transform3D(6.86938, 0, 0, 0, 0.401859, 0, 0, 0, 6.03162, 3.47587, 0.110351, -1.75939)
 use_collision = true
 size = Vector3(0.0771484, 1, 1)
+
+[node name="CSGPolygon3D" type="CSGPolygon3D" parent="Escenario"]
+transform = Transform3D(-9.363e-09, 0, 0.345917, 0, 0.155752, 0, -0.2142, 0, -1.51205e-08, -2.3288, -0.0654833, -2.04673)
+use_collision = true
+polygon = PackedVector2Array(0, 0, -0.0970402, 0.129273, 3.92801, 4.72571, 1, 0)
 
 [node name="WorldEnvironment" type="WorldEnvironment" parent="."]
 environment = SubResource("Environment_u5gxq")
