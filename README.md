@@ -6,7 +6,7 @@
 
 ![Banner](Captures/banner.gif)
 
-**Supay's Gates** es el remake del juego 2D creado para el programa Endless Studios. Esta nueva versión explora un diseño 2.5D, donde los personajes en 2D pixel art interactúan con estructuras en 3D para ofrecer una experiencia más inmersiva e innovadora. Este proyecto es un reto personal que combina mi amor por el modelado 3D y el pixel art.
+**Supay's Gates** es el remake del juego 2D creado para el programa GameLab de Endless Studios organizado por la Universidad Tecnológica del Perú. Esta nueva versión explora un diseño 2.5D, donde los personajes en 2D pixel art interactúan con estructuras en 3D para ofrecer una experiencia más inmersiva e innovadora. Este proyecto es un reto personal que combina mi amor por el modelado 3D y el pixel art.
 
 ### Pruebas Actuales
 
